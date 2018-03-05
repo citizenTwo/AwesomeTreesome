@@ -1,0 +1,3 @@
+P:/Learning/Projects/AwesomeTreesome/cmake-build-debug/CMakeFiles/AwesomeTreesome_v2_0.dir
+P:/Learning/Projects/AwesomeTreesome/cmake-build-debug/CMakeFiles/edit_cache.dir
+P:/Learning/Projects/AwesomeTreesome/cmake-build-debug/CMakeFiles/rebuild_cache.dir
